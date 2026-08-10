@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Swarthmore College
+  * B.A. Candidate, Cognitive Science, 2028 (expected)
+  * Relevant coursework: Stats I & II, Research Design & Analysis, Cognitive Psychology, Intro to Econ, Calc II & III, Linear Alg
 
 Work experience
 ======
