@@ -13,52 +13,41 @@ Education
 ======
 * Swarthmore College
   * B.A. Candidate, Cognitive Science, 2028 (expected)
-  * Relevant coursework: Stats I & II, Research Design & Analysis, Cognitive Psychology, Intro to Econ, Calc II & III, Linear Alg
+  * Relevant coursework: Stats I & II, Research Design & Analysis, Cognitive Psychology, Intro to Econ, Calc II & III, Linear Algebra
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* January 2025 – Present: Research Assistant
+  * Swarthmore Computational Memory Lab
+  * Collaborate with PI and student researchers to investigate how prediction error affects event segmentation by designing and running controlled experiments using a hypothesis-driven research framework.
+  * Recruited and ran tests on 36 participants, collecting and analyzing quantitative behavioral and EEG data to test experimental hypotheses; presented findings via poster presentation.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* June 2026 - August 2026: Summer Research Intern
+  * Formica-Brodie Labs, Mountain Lake Biological Station
+  * Worked closely with a 5 person research team to study age-related cognition and social behavior in forked fungus beetles by collecting and analyzing behavioral data from 1,000+ specimens in field and lab settings.
+  * Designed experimental combat-trial methodologies, coded behavioral responses in R, and managed large-scale datasets for ecological and evolutionary analyses.
+  * Independently cleaned and analyzed a 4-year historical dataset of 120,000+ observations in R, uncovering a novel finding that behavioral variables did not predict survivorship, while horn size and reproductive effort strongly predicted sexual selection; findings slated for future publication.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June 2023 – June 2024: Community Lab Member
+  * Biomaterials Research Group, Genspace
+  * Researched, tested, and developed novel and sustainable biomaterials including mycelium-based composites and agar- and gelatin-based bioplastics; documenting findings for replication and iteration.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* R
+* SQL
+* Statistical Analysis
+* Qualitative & Quantitative Analysis
+* Data Visualization
+* Qualtrics
+* PsychoPy
+* Excel
 
-Publications
+Projects
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* February 2026 – May 2026: Evaluating the Effects of Generative AI on Self-Regulated Learning
+  * Investigated the impact of Gen AI usage on self-regulated learning through experimental design using responses from 33 participants in Qualtrics and R; found no significant differences in learning outcomes or engagement.
+
+* February 2026 – May 2026: Predictive Modeling of Burnout in College Students
+  * Tested predictor variables against student burnout levels using a 150,000+ observation dataset in R, identifying mental health index as a strong predictor for burnout levels.
